@@ -1,3 +1,8 @@
+![Swift](https://img.shields.io/badge/swift-5.9-orange)
+![Platforms](https://img.shields.io/badge/platforms-iOS%20%7C%20macOS%20%7C%20watchOS%20%7C%20tvOS-lightgrey)
+![License](https://img.shields.io/badge/license-MIT-blue)
+![Status](https://img.shields.io/badge/build-passing-brightgreen)
+
 # 🚀 AldrinDevKit
 
 AldrinDevKit is a lightweight, modern SwiftUI utility library offering handy extensions for `String`, `Color`, and `Font` — written to save time, promote clean code, and keep your SwiftUI projects sharp and DRY.
